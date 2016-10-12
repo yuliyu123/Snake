@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/faw/Downloads/Snake2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/faw/Downloads/Snake2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b35377a0a9d56d179b95618f66e539e94b49d8fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faw/Downloads/Snake2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/faw/Downloads/Snake2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_4f6843e228e044d6cbe3fed55b51d657b1520b00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faw/Downloads/Snake2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/faw/Downloads/Snake2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_77c93118d1be29682ac26769d92cea97dea270f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faw/Downloads/Snake2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/faw/Downloads/Snake2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_8b487956b0698af8d3722dba04452093e0610cf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faw/Downloads/Snake2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/faw/Downloads/Snake2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_992b51132aeb8a19162ce6b4e5121c9a4cf208e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faw/Downloads/Snake2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/faw/Downloads/Snake2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_f3a8d3e4d2c605b5653c8cea87c773379d536896.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faw/Downloads/Snake2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/faw/Downloads/Snake2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b390fe2827ebf1a6225921714b1e6b6ca3922b1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faw/Downloads/Snake2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/faw/Downloads/Snake2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4b04350ae9b79df02bcfe96b0393165401928142.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faw/Downloads/Snake2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f2198aebce6c341cd7727557a2e21a05634cdfb2">
+        <dex dex="/Users/faw/Downloads/Snake2/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_9618890faabac061bf60925bc7f8fcf20f463676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faw/Downloads/Snake2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e988c8488b652593a434fe8c73b656ee737919a8">
+        <dex dex="/Users/faw/Downloads/Snake2/app/build/intermediates/pre-dexed/debug/instant-run_e8c0216efad73487c859767f0aa1a8f6d64e20c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faw/Downloads/Snake2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/faw/Downloads/Snake2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_bc93b35abeece4d5cf781d75dd77d9d668f327cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faw/Downloads/Snake2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/faw/Downloads/Snake2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_eaaa368d1684c45ed016ea059fc46e0387887a85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faw/Downloads/Snake2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/faw/Downloads/Snake2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_7979182e834e2c2fe12a0df8b65a9777542c2eb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faw/Desktop/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/faw/Downloads/Snake2/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_3c2efe297f2741b9151e4943411985abddacfa52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faw/Downloads/Snake2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/faw/Downloads/Snake2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_1d12a29a10c5f1f2001fef2dc137bdb912f4e02d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faw/Downloads/Snake2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/faw/Downloads/Snake2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9a1c359389a913886dd74d6012ccacddb087ca62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faw/Downloads/Snake2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/faw/Downloads/Snake2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_217eb28ea8e467e32fca0aed9f0cfe986adccebd.jar" />
+    </item>
+
+</items>

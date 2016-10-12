@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Snake</string>
+    <string name="mode_pause">pause</string>
+    <string name="mode_ready">ready</string>
+    <string name="mode_lose_prefix">Game Over\nScore: </string>
+    <string name="mode_lose_suffix">\nPress Up To Play</string>
+
+</resources>
